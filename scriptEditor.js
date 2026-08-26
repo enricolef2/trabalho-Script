@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Capturando os elementos
+
     const listaGerada = document.getElementById("listaGerada");
     const resultadoMenu = document.getElementById("resultadoMenu");
 
